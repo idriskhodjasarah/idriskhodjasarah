@@ -73,9 +73,7 @@ Check out my pinned repositories on my profile for a look at what I've been buil
 ## 📊 GitHub Stats
 <br>
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=idriskhodjasarah&theme=radical&card_width=500" />
-
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=idriskhodjasarah&theme=transparent&hide_border=true&timezone=UTC&date_format=M%20j%5B%2C%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 </div>
 
 <br>
